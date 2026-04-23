@@ -9,6 +9,7 @@ public class Booking {
     private final String bookingId;
     private final Member member;
     private Lesson lesson;
+    
     private final long bookingTimestamp;
 
     public Booking(String bookingId, Member member, Lesson lesson) {
