@@ -77,4 +77,5 @@ public class Member {
     public String toString() {
         return String.format("Member[%s] %s <%s>", memberId, name, email);
     }
+    
 }
