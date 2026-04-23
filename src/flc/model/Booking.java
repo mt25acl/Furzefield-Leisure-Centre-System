@@ -21,6 +21,11 @@ public class Booking {
     public String getBookingId() {
         return bookingId;
     }
+    
+    
+    
+    
+    
 
     public Member getMember() {
         return member;
